@@ -3,7 +3,6 @@ Abstract: This paper presents the development and implementation of a Pan-Tilt-Z
 
 # Overview
 <br />
-Some functionality added here to get results, values etc.
 Face quality checking thresholds are in the thresholds.py file
 Error messages are in the messages.py file
 <br />
