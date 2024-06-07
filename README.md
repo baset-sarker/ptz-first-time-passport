@@ -59,14 +59,14 @@ python3 face_image_capture.py -i 1 # here 1 is for smbus port for jetson nano
 
 
 @article{202406.0392,
-	doi = {10.20944/preprints202406.0392.v1},
-	url = {https://doi.org/10.20944/preprints202406.0392.v1},
-	year = 2024,
-	month = {June},
-	publisher = {Preprints},
-	author = {MD ABDUL BASET SARKER and Masudul H. Imtiaz},
-	title = {AI Face-Capture for First-time Passport Application},
-	journal = {Preprints}
+    doi = {10.20944/preprints202406.0392.v1},
+    url = {https://doi.org/10.20944/preprints202406.0392.v1},
+    year = 2024,
+    month = {June},
+    publisher = {Preprints},
+    author = {MD ABDUL BASET SARKER and Masudul H. Imtiaz},
+    title = {AI Face-Capture for First-time Passport Application},
+    journal = {Preprints}
 }
 
 ```
