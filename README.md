@@ -38,6 +38,7 @@ python3 face_image_capture.py -i 1 # here 1 is for smbus port for jetson nano
 
 # Other repositories to check 
 <b> Arducam MIPI </b>: https://github.com/ArduCAM/MIPI_Camera.git
+
 <b> An Open-Source Face-Aware Capture System </b> : https://github.com/baset-sarker/face-aware-capture
 
 
